@@ -104,7 +104,7 @@
   <section>
     <h2>Resume</h2>
     <!-- IMPORTANT: Replace resume.pdf with your uploaded file name -->
-    <a href="hfile:///C:/TASK%201/BILAL_resume%20.pdf" class="btn" target="_blank">Download Resume</a>
+    <a href="="_blank">Download Resume</a>
   </section>
 
   <section>
